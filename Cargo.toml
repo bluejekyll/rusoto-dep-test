@@ -1,0 +1,8 @@
+[package]
+name = "rusoto-dep-test"
+version = "0.1.0"
+authors = ["Benjamin Fry <benjaminfry@me.com>"]
+
+[dependencies]
+rusoto = { git = "https://github.com/rusoto/rusoto.git" }
+
